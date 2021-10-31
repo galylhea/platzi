@@ -1,1 +1,1 @@
-# platzi
+# Platzi
