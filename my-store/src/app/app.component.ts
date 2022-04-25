@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   imgParent = 'https://picsum.photos/200';
+
+  onLoaded(img: string): void {
+    console.log('log padre', img);
+  }
 }
+
+
